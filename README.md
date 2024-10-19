@@ -1,2 +1,2 @@
 # Geospatial-Data-Visualizations-in-Tableau
-Designed interactive Tableau dashboards with dot maps, density plots, and choropleth maps by incorporating memory limitations, optimal choices, and engaging visuals for an enhanced experience. 
+Designed interactive Tableau dashboards with dot maps, density plots, and choropleth maps by incorporating memory limitations, optimal choices, and engaging visuals for an enhanced experience. Showcased meteor impacts by type and size over time through a dot map. Visualized total shootings in Boston by crime categories and districts using a density plot. Created a choropleth map of U.S. national parks visitors data.
